@@ -1,0 +1,18 @@
+.header {
+    width: 100%;
+    z-index: 1;
+
+}
+
+.header h1,
+.header span {
+    color: rgba(0, 255, 255, 0.705);
+}
+
+.topt {
+    top: 100px
+}
+
+.bgc {
+    background-color: rgba(187, 154, 224, 0.425);
+}
